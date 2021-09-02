@@ -1,0 +1,9 @@
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Common\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.deps.json
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Common\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Common\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Common\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.csproj.CoreCompileInputs.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Common\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.AssemblyInfoInputs.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Common\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.AssemblyInfo.cs
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Common\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Common\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Common\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.csprojAssemblyReference.cache

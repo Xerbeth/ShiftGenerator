@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Domain.ShiftGenerator.API</name>
+    </assembly>
+    <members>
+        <member name="M:Domain.ShiftGenerator.API.Controllers.Shifts.ShiftsController.CreateShifts(Domain.ShiftGenerator.Common.Data_Transfer_Object.CreateShiftDto)">
+            <summary>
+            Método para crear los turnos para apartar el servicio prestado por los comercios
+            </summary>
+            <param name="createShift"> Clase de transporte de datos </param>
+            <returns> Estado de la transacción </returns>
+        </member>
+    </members>
+</doc>

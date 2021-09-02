@@ -1,0 +1,16 @@
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.deps.json
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.csprojAssemblyReference.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.csproj.CoreCompileInputs.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.AssemblyInfoInputs.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.AssemblyInfo.cs
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.csproj.CopyComplete
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.Services.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.Services\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.pdb

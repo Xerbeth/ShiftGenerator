@@ -1,0 +1,14 @@
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.deps.json
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.csprojAssemblyReference.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.AssemblyInfoInputs.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.AssemblyInfo.cs
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.csproj.CopyComplete
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.BussinesLayer.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.BussinesLayer\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.pdb

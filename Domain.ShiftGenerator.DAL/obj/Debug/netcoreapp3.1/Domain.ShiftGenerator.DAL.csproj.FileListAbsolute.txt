@@ -1,0 +1,12 @@
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.deps.json
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\bin\Debug\netcoreapp3.1\Domain.ShiftGenerator.Common.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.csprojAssemblyReference.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.AssemblyInfoInputs.cache
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.AssemblyInfo.cs
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.csproj.CopyComplete
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.dll
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.pdb
+C:\Users\faibe\source\repos\ShiftGenerator\Domain.ShiftGenerator.DAL\obj\Debug\netcoreapp3.1\Domain.ShiftGenerator.DAL.csproj.CoreCompileInputs.cache
