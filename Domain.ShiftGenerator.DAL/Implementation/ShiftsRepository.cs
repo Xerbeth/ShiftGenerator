@@ -32,8 +32,7 @@ namespace Domain.ShiftGenerator.DAL.Implementation
             {
                 SqlCommand cmd = connection.CreateCommand();
                 try
-                {
-                    connection.Open();                    
+                {                    
                     cmd.CommandText = "develop.CreateShifts";
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Parameters.Add(new SqlParameter("@ServiceId", SqlDbType.Int));
@@ -43,13 +42,18 @@ namespace Domain.ShiftGenerator.DAL.Implementation
                     cmd.Parameters.Add(new SqlParameter("@EndDate", SqlDbType.DateTime));
                     cmd.Parameters["@EndDate"].Value = createShift.EndDate;
                     cmd.Parameters.Add(new SqlParameter("@Message", SqlDbType.VarChar,100));
-                    cmd.Parameters["@Message"].Direction = ParameterDirection.Output;                                        
+                    cmd.Parameters["@Message"].Direction = ParameterDirection.Output;
+                    connection.Open();
                     cmd.ExecuteNonQuery();
                     message = cmd.Parameters["@Message"].Value.ToString();                    
                 }
                 catch (ArgumentException ex)
                 {
                     message = ex.Message;
+                }
+                finally
+                {
+                    connection.Close();
                 }
 
                 return message;
